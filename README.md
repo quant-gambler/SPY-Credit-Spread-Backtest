@@ -74,7 +74,6 @@ pip install yfinance pandas numpy scipy matplotlib
 
 The plot below shows the portfolio value growth over the backtest period (2020-01-01 to 2023-12-31):
 
-![Portfolio Value Over Time]
 <img width="1012" height="505" alt="Untitled" src="https://github.com/user-attachments/assets/009f86e1-1f4c-447f-afa5-e967a8c881a1" />
 
 
